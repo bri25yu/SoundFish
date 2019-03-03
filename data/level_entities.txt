@@ -1,0 +1,10 @@
+shark coral
+shark urchin
+urchin eel
+urchin eel electric_eel
+electric_eel lionfish
+lionfish octopus starfish
+octopus urchin shark electric_eel hermit_crab
+octopus urchin shark electric_eel hermit_crab
+octopus
+megalodon

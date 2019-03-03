@@ -1,0 +1,37 @@
+December 04 2018
+ - things happened
+
+December 05 2018
+ - things also happened
+ - ideas:
+    - Menu
+    - pitch and decibel movement mechanism + setting in Menu
+    - recording past high scores and usernames
+    - weapons: weapon class, snapping
+    - hermit crab rarity (1 per level)
+    - hermit crab animations for interactions
+    - swimming/floating animation
+    - hermit crab (shield +1 life?), electric eel (shoots out electricity in ellipsoid), starfish (slow - weight on scaling factor) interactions
+    - octopus vertical tracking movement (weighted average)
+    - shifting bubbles, moving background
+        - background add transparency (alpha >> 0 - less distracting)
+    - nonlinear acceleration
+    - ?? multiplayer (tag team system) ??
+    - ?? voice hoarseness test perhaps ??
+    - jelly fish that sting you
+ - next session:
+    - shifting background
+    - Menu
+    - pitch and decibel movement mechanism + setting in Menu
+    - portal
+    - calibration in menu
+    - noise cancelling headphones type thing to avoid feedback of yayy and awwww
+    - fish eats pill gets superpowers (temp sort of jetpack joyride vehicle thing)
+
+December 07, 2018
+ - fixed fish movement mechanism
+ - implemented octopi
+    - implemented checkYPos for all objects
+    - new animals by subclass extends obstacles
+    - type dispatch in draw by specialization
+ - implemented electric eels and their math radius etc
